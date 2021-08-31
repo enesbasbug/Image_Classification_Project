@@ -12,7 +12,9 @@ Here is the folder structure,
 1. server: Python flask server
 1. model: Contains python notebook for model building
 1. images_dataset: Dataset used for our model training
-1. Technologies used in this project,
+
+## 
+ Technologies used in this project,
 
 1. Python
 1. Numpy and OpenCV for data cleaning
@@ -21,9 +23,6 @@ Here is the folder structure,
 1. Jupyter notebook, visual studio code 
 1. Python flask for http server
 1. HTML/CSS/Javascript for UI
-
-## Reference :
-1. https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
 
 ##
 
@@ -41,3 +40,8 @@ Here is the folder structure,
 ##
 
 Cheers!
+
+## Reference :
+1. https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
+
+##
